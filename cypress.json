@@ -1,0 +1,8 @@
+{
+  "component": {
+    "componentFolder": "src",
+    "testFiles": "**/*.spec.ts"
+  },
+  "pluginsFile": "src/tests/e2e/plugins/index.js",
+  "supportFile": "src/tests/e2e/support/index.js"
+}
